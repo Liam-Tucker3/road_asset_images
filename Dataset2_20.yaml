@@ -1,0 +1,9 @@
+path: /home/letucker/road_asset_images/YOLO_data/Dataset2_20
+train: ./train
+val: ./valid
+test: ./test
+
+names:
+  0: stop
+  1: stopLeft
+  2: go
