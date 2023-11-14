@@ -1,0 +1,15 @@
+Expermient 2: 1Class vs. 6
+
+1 Class (231113_2000_100_1Class): 
+
+Image accuracy: 807 / 2000
+Light accuracy: 1162 / 5577
+Train time: 1590.15 seconds.
+Load time: 0.20779460999983712 seconds.
+Predict time: 102.66859854699987 seconds.
+
+
+6 Class (231106_2000_100):
+
+XXX Image acccuracy: 66/2000
+Light accuracy: 1928/5577
