@@ -1,0 +1,4 @@
+Day Image accuracy: 277 / 1000, or 27.70%.
+Day Light accuracy: 2522 / 2932, or 86.02%.
+Night Image accuracy: 629 / 1000, or 62.90%.
+Night Light accuracy: 1552 / 2645, or 58.68%.

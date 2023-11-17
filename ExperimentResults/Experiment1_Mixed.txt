@@ -1,0 +1,25 @@
+Experiment 1: Various sized training
+Model size: 250 images.
+-------------------------------
+Predict time: 100.42584830604028 s.
+Day Image accuracy: 422 / 1000, or 42.20%.
+Day Light accuracy: 2035 / 2932, or 69.41%.
+Night Image accuracy: 792 / 1000, or 79.20%.
+Night Light accuracy: 960 / 2645, or 36.29%.
+
+Model size: 500 images.
+-------------------------------
+Predict time: 101.33396219799761 s.
+Day Image accuracy: 355 / 1000, or 35.50%.
+Day Light accuracy: 2363 / 2932, or 80.59%.
+Night Image accuracy: 655 / 1000, or 65.50%.
+Night Light accuracy: 1394 / 2645, or 52.70%.
+
+Model size: 1000 images.
+-------------------------------
+Predict time: 100.42127460299525 s.
+Day Image accuracy: 317 / 1000, or 31.70%.
+Day Light accuracy: 2456 / 2932, or 83.77%.
+Night Image accuracy: 641 / 1000, or 64.10%.
+Night Light accuracy: 1467 / 2645, or 55.46%.
+

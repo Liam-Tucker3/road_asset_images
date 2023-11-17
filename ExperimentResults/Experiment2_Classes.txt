@@ -1,0 +1,25 @@
+Experiment 2: Various Types of Models
+Model Type: 6-Class Model.
+-------------------------------
+Predict time: 159.3243414189783 s.
+Day Image accuracy: 258 / 1000, or 25.80%.
+Day Light accuracy: 2549 / 2932, or 86.94%.
+Night Image accuracy: 625 / 1000, or 62.50%.
+Night Light accuracy: 1506 / 2645, or 56.94%.
+
+Model Type: 1-Class Model.
+-------------------------------
+Predict time: 159.49738172400976 s.
+Day Image accuracy: 466 / 1000, or 46.60%.
+Day Light accuracy: 1785 / 2932, or 60.88%.
+Night Image accuracy: 888 / 1000, or 88.80%.
+Night Light accuracy: 395 / 2645, or 14.93%.
+
+Model Type: Base Model.
+-------------------------------
+Predict time: 164.1878484680201 s.
+Day Image accuracy: 1 / 1000, or 0.10%.
+Day Light accuracy: 1939 / 2932, or 66.13%.
+Night Image accuracy: 800 / 1000, or 80.00%.
+Night Light accuracy: 248 / 2645, or 9.38%.
+
